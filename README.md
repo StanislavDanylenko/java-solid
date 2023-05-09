@@ -1,5 +1,5 @@
-S — Single Responsibility
-O — Open-Closed
-L — Liskov Substitution
-I — Interface Segregation
-D — Dependency Inversion
+* S — Single Responsibility
+* O — Open-Closed
+* L — Liskov Substitution
+* I — Interface Segregation
+* D — Dependency Inversion
